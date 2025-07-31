@@ -7,7 +7,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Mahesh2552/ecommerce-product-card-demo.git
+   git clone git@github.com:Mahesh2552/Product-Card-UI.git
    cd Product-Card-UI
    ```
 
